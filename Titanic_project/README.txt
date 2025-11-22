@@ -11,7 +11,16 @@ Entorno : Anaconda (conda)
 
 Nombre del entorno: datascience_env_titanic
 
-Librerías clave : Pandas , numpy , metaplotlib , seaborn (sns) , scikit-learn , jupyterlab . ( Para ver las versiones ir a environment.yml ) 
+Librerías clave : 
+
+-Python: 3.11.14 (main, Oct 21 2025, 18:31:21) [GCC 11.2.0]
+-NumPy: 2.3.4
+-Pandas: 2.3.3
+-Matplotlib: 3.10.6
+-Seaborn: 0.13.2
+-Scikit-learn: 1.7.2
+
+
 
 # Dataset ---------------------------------------------------------------------------------
 
